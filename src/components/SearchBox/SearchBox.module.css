@@ -1,0 +1,10 @@
+.wrap {
+  margin: 10px auto;
+  width: 400px;
+  /* display: flex;
+  flex-direction: column; */
+}
+.inp {
+  margin: 4px auto;
+  width: 200px;
+}

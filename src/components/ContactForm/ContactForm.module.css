@@ -1,0 +1,33 @@
+.label {
+  margin-left: 10px;
+  /* margin-bottom: 10px; */
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+}
+.input {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.input:focus {
+  border: 1px solid rgb(92, 141, 99);
+  outline: 0;
+}
+.btn {
+  margin-left: 10px;
+  max-width: 100px;
+  background-color: rgb(92, 141, 99);
+  text-align: center;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10%;
+}
+.btn:active {
+  background-color: rgb(175, 209, 188);
+  color: white;
+}
+.error {
+  color: red;
+}

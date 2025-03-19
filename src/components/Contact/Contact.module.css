@@ -1,0 +1,10 @@
+.wrapper {
+}
+.btn {
+  max-width: 100px;
+  background-color: rgb(92, 141, 99);
+  text-align: center;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10%;
+}
